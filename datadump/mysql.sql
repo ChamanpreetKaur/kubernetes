@@ -1,3 +1,3 @@
-CREATE TABLE test.messages (message VARCHAR(250));
-INSERT INTO test.messages VALUES ('good');
-INSERT INTO test.messages VALUES ('bye');
+CREATE TABLE prod.messages (message VARCHAR(250));
+INSERT INTO prod.messages VALUES ('good');
+INSERT INTO prod.messages VALUES ('bye');
